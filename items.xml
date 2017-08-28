@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <class name = "Товар 1">
+        <method name = "Кресло"/>
+        <method name = "2"/>
+        <method name = "300"/>
+    </class>
+    <class name = "Товар 2">
+        <method name = "Диван"/>
+        <method name = "5"/>
+        <method name = "700"/>
+    </class>
+    <class name = "Товар 3">
+        <method name = "Пуфик"/>
+        <method name = "7"/>
+        <method name = "210"/>
+    </class>
+    <class name = "Товар 4">
+        <method name = "Стол"/>
+        <method name = "3"/>
+        <method name = "1500"/>
+    </class>
+</application>
